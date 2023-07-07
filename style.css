@@ -21,7 +21,7 @@ body {
 }
 .nft-cont {
     
-    max-width: 325px;
+    max-width: 350px;
     padding: 1.5em;
     border-radius: 1em;
     background-color: hsl(216, 50%, 16%);
@@ -40,7 +40,7 @@ body {
 
 .card-title {
     color:hsl(0, 0%, 100%);
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 600;
     cursor: pointer;
     transition: 0.3s ease;
